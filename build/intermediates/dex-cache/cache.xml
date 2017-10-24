@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\timsh\.android\build-cache\24e55303763c97392852e0f9ec200b0b7d54ca5e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\timsh\Desktop\and\prj\ModernUI\NavDrawer\app\build\intermediates\pre-dexed\debug\classes_952209fbdb585993efd46ea647f16ea170dadec4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timsh\.android\build-cache\7978fca8dda37c69085fd6f058dd85901ce90849\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\timsh\Desktop\and\prj\ModernUI\NavDrawer\app\build\intermediates\pre-dexed\debug\classes_bbcfcf827ec128b5034c4d02de7135bfddd8caf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timsh\.android\build-cache\e5c929f9825c224cd3c978b3ae1642ab2ffa41fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\timsh\Desktop\and\prj\ModernUI\NavDrawer\app\build\intermediates\pre-dexed\debug\classes_98bf146920f4c81a47b6138edf7b39fc75a407d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timsh\.android\build-cache\bea84893484433e62397db62265ad2d8adc0194b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\timsh\Desktop\and\prj\ModernUI\NavDrawer\app\build\intermediates\pre-dexed\debug\classes_8f9b25aa2e05613ae03a7b3f5623406f0c4d4fd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timsh\.android\build-cache\084b2a5fbf69b2e322c1b56bf627399d3c05ffa6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\timsh\Desktop\and\prj\ModernUI\NavDrawer\app\build\intermediates\pre-dexed\debug\classes_a45ec1f1e416f418bef629a968442172b6c057f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timsh\.android\build-cache\c6b8a7460ec50d752f21c5a37d473a9f5aa17ad4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\timsh\Desktop\and\prj\ModernUI\NavDrawer\app\build\intermediates\pre-dexed\debug\classes_7b10cda795747d9e0576f36e416e9a84d90e30a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timsh\.android\build-cache\2aa24271e9912d74306e2867c09f3e73574bef55\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\timsh\Desktop\and\prj\ModernUI\NavDrawer\app\build\intermediates\pre-dexed\debug\classes_ac23968b0db58e209557730426e5c091179d5f5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timsh\.android\build-cache\f26d46e29553f70f41da7c63756c8bc29998cd8f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\timsh\Desktop\and\prj\ModernUI\NavDrawer\app\build\intermediates\pre-dexed\debug\classes_a30245dd5116f921b480723dcb402692d5d36ee2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timsh\.android\build-cache\257981ce85cfb3bd32c4a3ac324319b9eb574dfb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\timsh\Desktop\and\prj\ModernUI\NavDrawer\app\build\intermediates\pre-dexed\debug\classes_8705b5ccdbe5002ca0e3feddbea25bc828a96ebd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timsh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\timsh\Desktop\and\prj\ModernUI\NavDrawer\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_ba65e8fa8551011718db37f5f2563d21fa3f524b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timsh\.android\build-cache\2a31125f32876bf75750df85b14aaec037def4a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\timsh\Desktop\and\prj\ModernUI\NavDrawer\app\build\intermediates\pre-dexed\debug\classes_627895d4d3f3c9b8de55166b2d7d1e983197b6db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timsh\.android\build-cache\0ff8f178dc6c3cd375a21be28d8e2b95ed4cfa55\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\timsh\Desktop\and\prj\ModernUI\NavDrawer\app\build\intermediates\pre-dexed\debug\classes_7ae7b028d0229cb11049fd516236bd2336fee567.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timsh\.android\build-cache\bb955d0e65b573c23f224f173d79f2789720af6e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\timsh\Desktop\and\prj\ModernUI\NavDrawer\app\build\intermediates\pre-dexed\debug\classes_155cf7c1a6b28ddf914d5a0c30044d85c74bd31b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timsh\.android\build-cache\bb43c05a0518e9cae54c084af590bda3c9e7ba41\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\timsh\Desktop\and\prj\ModernUI\NavDrawer\app\build\intermediates\pre-dexed\debug\classes_aec9b7abd619ab35f9d33fbd6e8871022042e042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timsh\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\timsh\Desktop\and\prj\ModernUI\NavDrawer\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_0f4965921ba80c45a8886e445b72729b051b8eb1.jar" />
+    </item>
+
+</items>
